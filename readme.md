@@ -21,7 +21,7 @@ This project leverages deep learning and financial data to predict NVIDIA's stoc
 
 1. **Clone the repository**
    ```powershell
-   git clone <your-repo-url>
+   git clone https://github.com/deathvadeR-afk/Stock_price_prediction.git
    cd NVIDIA_Stock_Prediction
    ```
 
